@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>754.jpeg</filename>
+	<path>/home/mohsin/Downloads/preprocessed/image/754.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>5</ymin>
+			<xmax>212</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

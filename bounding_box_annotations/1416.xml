@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1416.jpeg</filename>
+	<path>C:\Users\DEV\Desktop\labelImg-master\preprocessed\image\1416.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>50</ymin>
+			<xmax>182</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
